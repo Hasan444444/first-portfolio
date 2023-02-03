@@ -1,0 +1,30 @@
+body{
+font-family: 'Lora', serif;}
+h1{
+    font-size: medium;
+
+
+}
+h2{
+    font-size: larger;
+}
+section{
+    display: flex;
+padding: 5%;
+
+}
+.Half-width{
+    width: 50%;
+}
+   img{
+    width: 50%;
+    border-radius: 60%;
+   }
+   .top-banner{
+    background-image: url(images/laurel-balyeat-ExarETx4xNA-unsplash.jpg);
+background-repeat: no-repeat;
+   }
+   .sh{
+    text-align: center;
+   padding: 20%;
+   }
